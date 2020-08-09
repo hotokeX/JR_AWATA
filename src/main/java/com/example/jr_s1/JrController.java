@@ -70,7 +70,7 @@ public class JrController {
 
 
       ////////////////////////////////////////// ディレクトリ出力
-      String outputPdfPath = "src\\main\\resources\\jasperreports\\out\\TOP_Blank_A4.pdf";
+      String outputPdfPath = "src\\main\\resources\\jasperreports\\out\\SampleT2_A4.pdf";
 
       // 対象パスに PDF を書き出し
   		JasperExportManager.exportReportToPdfFile(jasperPrint, outputPdfPath);
