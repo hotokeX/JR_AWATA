@@ -43,7 +43,7 @@
 			<frame>
 				<reportElement x="0" y="20" width="559" height="200" uuid="8a7a7e76-6e07-42c5-98df-a21b1fd73edf"/>
 				<image>
-					<reportElement x="255" y="75" width="50" height="50" uuid="68d695db-e42e-4d2b-a5bd-5a8603dcf5e2"/>
+					<reportElement x="80" y="-120" width="401" height="400" uuid="68d695db-e42e-4d2b-a5bd-5a8603dcf5e2"/>
 					<imageExpression><![CDATA[$P{imgsrc}]]></imageExpression>
 				</image>
 			</frame>
